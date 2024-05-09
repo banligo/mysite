@@ -11,3 +11,7 @@
   {{- trim .Inner "\n" -}}
   {{ with .Get "display" }}\]{{else}}\){{end}}
 </span>
+
+{{ if or .Params.math .Site.Params.math }}
+{{ partial "math.html" . }}
+{{ end }}

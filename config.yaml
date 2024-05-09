@@ -76,14 +76,14 @@ params:
 
   # Set source repository location.
   # Used for 'Last Modified' and 'Edit this page' links.
-  BookRepo: https://github.com/heyingqiu/
+  BookRepo: 'https://github.com/heyingqiu/mysite'
 
   # (Optional, default 'commit') Specifies commit portion of the link to the page's last modified
   # commit hash for 'doc' page type.
   # Requires 'BookRepo' param.
   # Value used to construct a URL consisting of BookRepo/BookCommitPath/<commit-hash>
   # Github uses 'commit', Bitbucket uses 'commits'
-  BookCommitPath: commit
+  BookCommitPath: 'commit'
 
   # Enable "Edit this page" links for 'doc' page type.
   # Disabled by default. Uncomment to enable. Requires 'BookRepo' param.
@@ -133,10 +133,10 @@ params:
   BookEnableJS: true
 
   # (Optional) Set to hide nested sections or pages at that level. Works only with file-tree menu mode
-  bookCollapseSection: true
+  bookCollapseSection: false
 
   # (Optional) Set true to hide page or section from side menu (if BookMenuBundle not set)
   bookHidden: false
 
   # (Optional) Set to 'true' to mark page as flat section in file-tree menu (if BookMenuBundle not set)
-  bookFlatSection: true
+  bookFlatSection: false

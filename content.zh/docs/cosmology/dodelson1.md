@@ -3,13 +3,12 @@ date: 2024-03-12
 lastmod: 2024-03-12
 author: ["Y. He"]
 title: 宇宙学笔记：Ⅰ 宇宙膨胀
+math: true
 ---
 
 书1~3章
 
 <!--more-->
-{{< katex display=true >}}
-{{< /katex >}}
 
 ## 1 引言：宇宙学模型
 

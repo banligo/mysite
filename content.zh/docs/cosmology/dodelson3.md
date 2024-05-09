@@ -3,6 +3,7 @@ date: 2024-03-12
 lastmod: 2024-03-12
 author: ["Y. He"]
 title: 宇宙学笔记：Ⅲ 结构生长
+math: true
 ---
 
 8~14章

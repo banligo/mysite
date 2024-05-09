@@ -1,5 +1,6 @@
 <div class="flex flex-wrap justify-between">
 
+
 {{ if and .GitInfo .Site.Params.BookRepo }}
   <div>
     {{- $date := partial "docs/date" (dict "Date" .GitInfo.AuthorDate.Local "Format" .Site.Params.BookDateFormat) -}}
@@ -26,3 +27,11 @@
 {{ with $script.Content }}
   <script>{{ . | safeJS }}</script>
 {{ end }}
+
+<footer class="footer">
+  {{- if site.Copyright }}
+  <span>{{ site.Copyright | markdownify }}</span>
+  {{- else }}
+  <span>&copy;2024-{{ now.Year }} <a href="{{ "" | absLangURL }}">{{ site.Title }} 🌰</a></span>
+  {{- end }}
+</footer>
