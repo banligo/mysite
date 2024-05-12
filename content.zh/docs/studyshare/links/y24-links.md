@@ -10,6 +10,7 @@ lastmod: 2024-03-10
 
 # 建立小站
 
+## <img src="https://cdn.hugeicons.com/icons/link-square-01-stroke-rounded.svg" alt="link-square-01" width="24" height="24" /> 各类主题
 ### BOOK 主题主题
 - [Mermaid](https://mermaid.js.org/intro/) lets you create diagrams and visualizations using text and code.
 
@@ -22,6 +23,17 @@ lastmod: 2024-03-10
 - [[置顶] hugo博客搭建 | PaperMod主题](https://www.sulvblog.cn/posts/blog/build_hugo/)
 - [【置顶】Hello, hugo!](https://www.lvbibir.cn/posts/blog/hello-hugo/)
 - [loyayz 建站笔记](https://loyayz.com/website/)
+
+## <img src="https://cdn.hugeicons.com/icons/link-square-01-stroke-rounded.svg" alt="link-square-01" width="24" height="24" /> 可用
+
+### 可外置
+- [Mermaid](https://mermaid.js.org/intro/) lets you create diagrams and visualizations using text and code.
+- [KaTeX](https://katex.org/) 以及它的 [TeX functions](https://katex.org/docs/supported.html)
+### 图标
+
+- [hugeicons](https://hugeicons.com/)
+
+## <img src="https://cdn.hugeicons.com/icons/link-square-01-stroke-rounded.svg" alt="link-square-01" width="24" height="24" /> 其他分享
 
 ### Bug 解决
 - [解决 hugo 中关于 integrity 的错误](https://smc.im/post/resolve-integrity-error-in-hugo/)
