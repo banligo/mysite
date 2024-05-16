@@ -16,9 +16,8 @@ bookSearchExclude: true
 
 ## 文章
 
-⚛️ **重子声波振荡的理论研究**，*本科生毕业论文*，2024.05.26 (答辩日期) ，ZJUT. {{< button href="/documents/BscThesis-draft-heyingqiu-0503.pdf" >}}初稿{{< /button >}} {{< button href="/documents/.pdf" >}}PPT{{< /button >}} <br>
-⚛️ **Image Sensor-Driven Circuit Design for Measuring
-Optical Frequency Comb Spectrum**, *UEC 51th mini-international conference*, 2023.08.07, Tokyo, Japan. {{< button href="/documents/he-uec-paper.pdf" >}}PDF{{< /button >}}
+⚛️ **重子声波振荡的理论研究**，*本科生毕业论文*，2024.05.26 (答辩日期) ，ZJUT. {{< button href="/documents/BScThesis-heyingqiu.pdf" >}}PDF{{< /button >}} {{< button href="/documents/.pdf" >}}slides{{< /button >}} <br>
+⚛️ **Image Sensor-Driven Circuit Design for Measuring Optical Frequency Comb Spectrum**, *UEC 51th mini-international conference*, 2023.08.07, Tokyo, Japan. {{< button href="/documents/he-uec-paper.pdf" >}}PDF{{< /button >}}
 
 <br>
 
@@ -29,8 +28,8 @@ Optical Frequency Comb Spectrum**, *UEC 51th mini-international conference*, 202
 ## 课程作业
 
 ⚛️ **《待更新》**，*光学设计与光学制造*，2024，ZJUT. {{< button href="/documents/class/.pdf" >}}PDF{{< /button >}} <br>
-⚛️ **气体污染源定位问题**，*数学建模与应用*，2024.05.07，ZJUT. {{< button href="/documents/class/y24-modelling.pdf" >}}PDF{{< /button >}} <br>
-⚛️ **从简谐振动推导等离子体的谐振频率和德拜长度**，*微纳加工技术*，2023.12.05，ZJUT. {{< button href="/documents/class/y24-weinajiagong-ppt-heyingqiu.pdf" >}}slides{{< /button >}} <br>
+⚛️ **气体污染源定位问题**，*数学建模*，2024.05.07，ZJUT. {{< button href="/documents/class/y24-modelling.pdf" >}}PDF{{< /button >}} <br>
+⚛️ **从简谐振动推导等离子体的谐振频率和德拜长度**，*纳米光子学与器件*，2023.12.05，ZJUT. {{< button href="/documents/class/y24-weinajiagong-ppt-heyingqiu.pdf" >}}slides{{< /button >}} <br>
 ⚛️ **FDTD Simulation: Plane Wave Interaction with Infinite Dielectric Cylinder**, *Exercises in Advanced Computational Sciences*, 2023.09.28, UEC. {{< button href="/documents/fdtf-slides-heyingqiu.pdf" >}}slides{{< /button >}}
 
 
