@@ -14,4 +14,4 @@ bookSearchExclude: true
 
 [4月](./y24-4-busyyyyy.md)，开始忙碌，收到内诺。
 
-[5月](./y24-5-verybusy.md)，论文答辩，
+[5月](./y24-5-verybusy.md)，论文答辩，留学考核。

@@ -4,7 +4,7 @@ title: 微积分
 math: true
 ---
 
-做题时遇到的一些数学结论，以便查阅。
+Integral, derivative... 
 
 <!--more-->
 
