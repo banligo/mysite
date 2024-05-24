@@ -7,6 +7,7 @@ weight: 1
 # bookCollapseSection: false
 # bookComments: false
 # bookSearchExclude: false
+math: true
 ---
 
 > conclusion, find proof in textbook. <br>
@@ -45,18 +46,13 @@ $$\frac{1}{2\pi i}\oint_C\frac{f(z)}{z-z_0}dz=\begin{cases}
 
 ### Residue Theorem
 
-$$\oint_Cf(z)dz=2\pi i \,(\text{sum of the enclosed residues})\\
+$$\oint_Cf(z)dz=2\pi i \sum \text{residues}$$
+
+$$
   a_{-1}=\frac{1}{(n-1)!}\lim_{z\rightarrow z_0}\left[\frac{d^{n-1}}{dz^{n-1}}((z-z_0)^nf(z))\right]$$
 
 
 ## Evaluation of definite integrals
-
-1. $$\begin{aligned} 
-    I &=\int_0^{2\pi}f(\sin\theta,\cos\theta)d\theta =-i\oint f\left(\frac{z-z^{-1}}{2i},\frac{z+z^{-1}}{2i}\right)\frac{dz}{z}\\
-     &=(-i)2\pi i\sum \text{residues within the unit circle} \end{aligned}$$
-     Note that use the redidues of $f/z$
-
-1. $$I=\int_{-\infty}^{\infty}f(x)dx=\oint f(z)dz=2\pi i\sum \text{residues }\text{ (upper half-plane)}$$
 
 
 ### Jordan's lemma
@@ -65,15 +61,33 @@ $$\lim_{R\rightarrow\infty}\int_Ce^{iaz}f(z)dz=0,$$
 where $z>0$ and $C$ is a semicircle of radius $R$ in the upper half-plane with center at the origin. 
 
 
-3. $$I=\int_{-\infty}^{\infty}f(x)e^{-ax}dx=2\pi i\sum \text{residues of }e^{iaz}f(z) \text{ (upper half-plane)}$$
+#### 1. $(0,2\pi)$ 
+
+
+ $$\begin{aligned} 
+    I &=\int_0^{2\pi}f(\sin\theta,\cos\theta)d\theta =-i\oint f\left(\frac{z-z^{-1}}{2i},\frac{z+z^{-1}}{2i}\right)\frac{dz}{z}\\
+     &=(-i)2\pi i\sum \text{residues} \end{aligned}$$
+
+Note that use the redidues of $f/z$, and the the residues are in within the unit circle. 
+
+
+#### 2. $(-\infty,\infty)$
+
+$$I=\int_{-\infty}^{\infty}f(x)dx=\oint f(z)dz=2\pi i\sum \text{residues }\text{ (upper half-plane)}$$
+
+
+
+#### 3. $e^{iax}$
+
+$$I=\int_{-\infty}^{\infty}f(x)e^{-ax}dx=2\pi i\sum \text{residues of }e^{iaz}f(z) \text{ (upper half-plane)}$$
 
 
 
 <br>
 
 ---
+---
 
-<br>
 
 # Examples
 
@@ -87,6 +101,9 @@ not complete, just some steps
 
 
 <br>
+
+---
+---
 
 Reference: <br>
 [1] Mathematical Methods for Physcicists, Seventh Edition. 
