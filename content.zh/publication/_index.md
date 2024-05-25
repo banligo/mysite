@@ -16,7 +16,7 @@ bookSearchExclude: true
 
 ## 文章
 
-⚛️ **重子声波振荡的理论研究**，*本科生毕业论文*，2024.05.26 (答辩日期) ，ZJUT. {{< button href="/documents/BScThesis-heyingqiu.pdf" >}}PDF{{< /button >}} {{< button href="/documents/.pdf" >}}slides{{< /button >}} <br>
+⚛️ **重子声波振荡的理论研究**，*本科生毕业论文*，2024.05.26，ZJUT. {{< button href="/documents/BScThesis-heyingqiu.pdf" >}}PDF{{< /button >}} {{< button href="/documents//BScThesisPPT-heyingqiu.pdf" >}}slides{{< /button >}} <br>
 ⚛️ **Image Sensor-Driven Circuit Design for Measuring Optical Frequency Comb Spectrum**, *UEC 51th mini-international conference*, 2023.08.07, Tokyo, Japan. {{< button href="/documents/he-uec-paper.pdf" >}}PDF{{< /button >}}
 
 <br>
