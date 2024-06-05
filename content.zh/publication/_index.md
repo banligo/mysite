@@ -8,7 +8,7 @@ bookSearchExclude: true
 
 # 公开文档
 
-文档公开，不负责内容正确无误，请不要获取产生营利性用途。
+文档公开，不负责内容正确无误，请不要获取产生营利性用途。单纯个人记录分享。
 
 ---
 
@@ -27,7 +27,8 @@ bookSearchExclude: true
 
 ## 课程作业
 
-⚛️ **《待更新》**，*光学设计与光学制造*，2024，ZJUT. {{< button href="/documents/class/.pdf" >}}PDF{{< /button >}} <br>
+⚛️ **SMS**，*光学设计与光学制造*，2024，ZJUT. {{< button href="/documents/class/.pdf" >}}PDF{{< /button >}} <br>
+⚛️ **普洱茶**，*逻辑与思辨*，2024.06.，ZJUT. {{< button href="/documents/class/.pdf" >}}PDF{{< /button >}} <br>
 ⚛️ **气体污染源定位问题**，*数学建模*，2024.05.07，ZJUT. {{< button href="/documents/class/y24-modelling.pdf" >}}PDF{{< /button >}} <br>
 ⚛️ **从简谐振动推导等离子体的谐振频率和德拜长度**，*纳米光子学与器件*，2023.12.05，ZJUT. {{< button href="/documents/class/y24-weinajiagong-ppt-heyingqiu.pdf" >}}slides{{< /button >}} <br>
 ⚛️ **FDTD Simulation: Plane Wave Interaction with Infinite Dielectric Cylinder**, *Exercises in Advanced Computational Sciences*, 2023.09.28, UEC. {{< button href="/documents/class/fdtf-slides-heyingqiu.pdf" >}}slides{{< /button >}}
