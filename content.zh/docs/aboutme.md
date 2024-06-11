@@ -18,14 +18,16 @@ type: 'docs'
 
 
 
-> `日期` 表示已经完成，未变灰表示待办；<br>
+> `日期` 表示已经完成，未变灰表示待办（可能有延迟）。<br>
 
 {{< tabs "uniqueid" >}}
 {{< tab "24 中" >}} 
 07.01~07.15 军训补训<br>
-06.21 毕业典礼<br>
-06.10 返校<br>
-06.06 回家<br>
+06.24 光设期末考<br>
+06.21 校毕业典礼 <br>
+06.18 院毕业典礼 <br>
+`06.10` 返校<br>
+`06.06` 回家<br>
 `06.02` ACG演唱会<br>
 `05.27` KEK面试<br>
 `05.26` 本科论文首次答辩 <br>
@@ -43,15 +45,15 @@ type: 'docs'
 ## 学习
 
 <img src="https://cdn.hugeicons.com/icons/school-stroke-rounded.svg" alt="school" width="24" height="24" /> 高中<br> 
-  - 语文/数学/英语
-  - 选课：物理/生物/技术
+  - 语文（94）/ 数学（121）/ 英语（12）
+  - 选课：物理（91）/ 生物（94）/ 技术（91）
   
 <img src="https://cdn.hugeicons.com/icons/school-stroke-rounded.svg" alt="school" width="24" height="24" /> 大学 <br>
   - 大一
     - 高等数学、线性代数
     - 普通物理（上）
   - 大二
-    - 数理方程
+    - 数学物理方法
     - 普通物理（下）、原子核物理 
     - 理论力学/电动力学/量子力学/统计力学
     - 工程光学、模电、数电、信号与系统
@@ -71,7 +73,7 @@ type: 'docs'
 {{< /expand >}}
 {{< expand "动漫TV" "..." >}}
 `🔶欢迎光临樱兰高校` `🔸NANA.j` `🔸强风吹拂.j` `🔶进击的巨人.j` `冰菓.j` `青春猪头少年不会梦到兔女郎学姐,j` `Free!,j` `跃动青春.j` `孤独摇滚.j` `辉夜大小姐想让我告白.j` `舞动青春.j` `来自风平浪静的明天.j` `白沙的水族馆.j` `我的青春恋爱物语果然有问题.j` `异度侵入 ID:INVADED.j` `堀与宫村.j` `男子高中生的日常.j` `轻音少女.j` `🔸邻座的怪同学.j` `四月是你的谎言.j` `欢迎来到实力至上主义教室.j` `阿宅的恋爱真难.j` `🔶会长大人是女仆.j` `女高中生的虚度日常.j` `游戏人生.j` `紫罗兰永恒花园.j` `🔶青春之旅.j`
-`*怪兽8号.j` `*夜晚的水母不会游泳.j` `*吹响吧！上低音号.j` 
+ `*夜晚的水母不会游泳.j` `*吹响吧！上低音号.j` 
 {{< /expand >}}
 {{< expand "电视剧" "..." >}}
 `白色巨塔.j` `最爱.j` `🔸我的危险妻子.j` 
@@ -94,13 +96,13 @@ type: 'docs'
   <br>小时候和父母经常公园打球，但是球技一般，还没有球友💔
 
 <img src="https://cdn.hugeicons.com/icons/camera-01-stroke-rounded.svg" alt="camera-01" width="20" height="20" /> 照相
-  <br>有个 Canon EOS 200DⅡ，但是毫无技巧，连曝光都调不来
+  <br>有个 Canon EOS 200DⅡ，但是毫无技巧，连曝光都调不来。
 
 <img src="https://cdn.hugeicons.com/icons/browser-stroke-rounded.svg" alt="browser" width="20" height="20" /> 网站制作
   <br>感觉挺有意思的，其实大二的时候就想做一个了，但是当时摆弄不来（现在也是
 
 <img src="https://cdn.hugeicons.com/icons/music-note-01-stroke-rounded.svg" alt="music-note-01" width="20" height="20" /> 吉他
-  <br>木吉学过一丢丢，希望找个老师继续学习。但是也想学学电吉，流行摇滚🤘
+  <br>木吉学过一丢丢，希望找个老师继续学习。但是也想学学电吉，流行摇滚，已经买了一个电吉他了。🤘
 
 <img src="https://cdn.hugeicons.com/icons/paint-board-stroke-rounded.svg" alt="paint-board" width="20" height="20" /> 绘画
   <br>学过素描（照猫画虎罢了），但是学不会啊，小垃圾一个
