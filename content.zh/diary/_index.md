@@ -6,10 +6,9 @@ type: 'blog'
 bookSearchExclude: true
 ---
 
+# 板栗日记
 
-# 2024 年
-
-## 3月~至今
+## 2024 年
 
 [6月](./y24-6-lost.md)，等待，迷茫，毕业季。
 

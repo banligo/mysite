@@ -23,21 +23,5 @@ bookSearchExclude: true
 {{< button relref="posts" >}}博客{{< /button >}}
 
 
-<br>
-
----
-
-<br>
-
-## 网站日志
-
-{{< tabs "uniqueid" >}}
-{{< tab "24 上" >}} 
-### 1月 ~ 6月
-`05.23` 专题板块增加数学复变函数的分析 <br>
-`05.10` 下载Hugo，在Mac上工作，但是无法上传 <br>
-`05.05` 小站从PaperMod主题更换为Book主题<br>
-{{< /tab >}}
-{{< /tabs >}}
 
 [📓](../diary)
