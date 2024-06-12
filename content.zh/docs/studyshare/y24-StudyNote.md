@@ -4,20 +4,18 @@ date: 2024-03-08
 lastmod: 2024-03-10
 math: true
 ---
-# 板栗的物理学习笔记
+# 板 栗 的 物 理 学 习 笔 记
 
 学习笔记更新记录。（持续更新）
 
 <!--more-->
 
 先来个自我介绍：
-本人二流学院物理小渣渣（虽然专业名是光信），课余做了挺多的物理学习笔记，在此分享于各位。
+本人二流学院物理小渣渣（虽然专业名是光信），课余做了挺多的物理学习笔记，在此分享于各位。最近是毕业季，留有时间在校学学习，回家就没心思学咯。
 
-- `done` 表示已完成，且已校阅一遍及以上 
-- `already done` 表示已完成，待校阅第一遍 
-- `doing` 表示正在制作中，已完成学习 
-- `to do` 表示正在学习相关内容，近期开始着手 
-- `plan to do` 表示将来会学习并制作相关笔记 
+- `done` 表示已完成
+- `doing` 表示正在制作中，且已完成学习 
+- `to do` 表示计划制作，且正在学习相关内容
 - ※ 表示已制作，但是之后不会校阅更新 
 
 
@@ -28,10 +26,13 @@ math: true
 
 | 科目  | 进度 | 参考/推荐 |
 | :-----: | :----: | :----: |
-| 分析力学 | `already done` | B站川大宁波老师教学录制[视频](https://www.bilibili.com/video/BV1hY411g7HG) |
-| 电动力学 | `doing` | B站国科大刘纯老师教学录制[视频](https://www.bilibili.com/video/BV19P411L7ps/) |
-| 量子力学 | `already done` | B站北大郭宏老师教学录制[视频](https://www.bilibili.com/video/BV1Uh4y1K7Ey/) |
-| 统计力学 | `already done` | 暂无 |
+| 分析力学 | `done` | B站川大宁波老师教学录制[视频](https://www.bilibili.com/video/BV1hY411g7HG) |
+| 电动力学 | `done` | B站国科大刘纯老师教学录制[视频](https://www.bilibili.com/video/BV19P411L7ps/) |
+| 量子力学 | `done` | B站北大郭宏老师教学录制[视频](https://www.bilibili.com/video/BV1Uh4y1K7Ey/) |
+| 统计力学 | `done` | 暂无 |
+| 高等量子力学 | `to do` | B站北大郭宏老师教学录制[视频](https://www.bilibili.com/video/BV1QN411i7Wo) |
+| 广义相对论 | `to do` | B站国科大叶根老师 |
+| 量子场论 | `to do` | B站中山大余老师教学[视频](https://space.bilibili.com/6888822/channel/seriesdetail?sid=4025692) |
 | 宇宙学  | `to do` | *Modern Cosmology* by Scott Dodelson [书PDF](https://icourse.club/uploads/files/c6cd83fdddc0c0e5e6058b2c1a2f8781399c616e.pdf) |
-| 广义相对论 | `plan to do` | ？|
+| 基础拓扑学| `to do` | B站up主教学[视频](https://www.bilibili.com/video/BV1P7411N7fW/) |
 | 普通物理 | ※ | 无 |
