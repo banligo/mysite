@@ -9,14 +9,12 @@ type: 'docs'
 
 <br>
 
-哈啰，我是板栗。 
+哈啰，我是板栗，以下是一些个人资料，欢迎享用。
 
 <br>
 
 
 ## 活动记录
-
-
 
 > `日期` 表示已经完成，未变灰表示待办（可能有延迟）。<br>
 
@@ -26,6 +24,7 @@ type: 'docs'
 06.24 光设期末考<br>
 06.21 校毕业典礼 <br>
 06.18 院毕业典礼 <br>
+06.17 论文归档 <br>
 `06.10` 返校<br>
 `06.06` 回家<br>
 `06.02` ACG演唱会<br>
@@ -44,11 +43,11 @@ type: 'docs'
 
 ## 学习
 
-<img src="https://cdn.hugeicons.com/icons/school-stroke-rounded.svg" alt="school" width="24" height="24" /> 高中<br> 
+<img src="https://cdn.hugeicons.com/icons/school-stroke-rounded.svg" alt="school" width="24" height="24" /> 高中（台州市路桥中学，2017 - 2020）<br> 
   - 语文（94）/ 数学（121）/ 英语（12）
   - 选课：物理（91）/ 生物（94）/ 技术（91）
   
-<img src="https://cdn.hugeicons.com/icons/school-stroke-rounded.svg" alt="school" width="24" height="24" /> 大学 <br>
+<img src="https://cdn.hugeicons.com/icons/school-stroke-rounded.svg" alt="school" width="24" height="24" /> 大学 （浙江工业大学，2020-2024）<br>
   - 大一
     - 高等数学、线性代数
     - 普通物理（上）
@@ -61,8 +60,9 @@ type: 'docs'
     - 物理光学、光学设计、光学通信
     - 广义相对论 (intro)、宇宙学 (intro)
   
-<img src="https://cdn.hugeicons.com/icons/school-stroke-rounded.svg" alt="school" width="24" height="24" /> ?
-<br>
+<img src="https://cdn.hugeicons.com/icons/school-stroke-rounded.svg" alt="school" width="24" height="24" /> 研究生 （日本高能加速器研究所 KEK，2024-）<br>
+  - 研一
+    - ？
 
 ---
 
@@ -111,10 +111,10 @@ type: 'docs'
   <br>日语是因为动漫、日漫契机下开始学的，有 N1。想学德语是因为一直听说是语法很难，想见识见识，可以的话想去欧洲那边留学
   
 <img src="https://cdn.hugeicons.com/icons/airplane-take-off-01-stroke-rounded.svg" alt="airplane-take-off-01" width="20" height="20" /> 旅行
-  <br>去过上海、江苏、北京、广东、香港、东京、北海道……无奈没什么时间，希望这个暑假能多多出去。如果申请没有过的话，估计也没什么心情出去了……
+  <br>去过上海、江苏、北京、广东、香港、东京、北海道……想去中国的中部和西部。
 
 <img src="https://cdn.hugeicons.com/icons/clothes-stroke-rounded.svg" alt="clothes" width="20" height="20" /> 合气道
-  <br>UEC交换的时候参加的一个社团，有5级（最低），师从铃木俊雄，[演示视频](https://space.bilibili.com/3494357548140879)
+  <br>UEC交换的时候参加的一个社团，5级证书（最低），师从铃木俊雄，[演示视频](https://space.bilibili.com/3494357548140879)。
 
 <br>
 
@@ -132,7 +132,7 @@ type: 'docs'
                     : 《高考》 被迫经历历史未有过之 高考延期  (2020.07)
           2020 - 2024 : 第一次手术 半月板切除 (2022.04)
                     : 第一次出国 交换留学  （2022.10-2023.08）
-                    : 毕业？升学？
+                    : 留学深造考核通过 （2024.06）
 {{< /mermaid >}}
 
 ---
