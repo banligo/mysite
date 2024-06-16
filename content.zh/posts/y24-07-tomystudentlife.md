@@ -1,13 +1,9 @@
 ---
-title: "a letter"
+title: "我的大学四年"
 date: 2024-07-16
 # bookComments: false
 # bookSearchExclude: false
 ---
-
-# a letter
-
-题目想不出……
 
 该结束的可能都结束了吧。
 
