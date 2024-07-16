@@ -10,6 +10,8 @@ bookSearchExclude: true
 
 ## 2024 年
 
+[7月](./y24-7-stillbusy.md)，为啥还是这么忙啊啊啊啊啊啊。
+
 [6月](./y24-6-lost.md)，等待，迷茫，毕业季。
 
 [5月](./y24-5-verybusy.md)，论文答辩，留学考核。
