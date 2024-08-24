@@ -8,6 +8,8 @@ bookSearchExclude: true
 
 # 板栗日记
 
+
+
 ## 2024 年
 
 [8月](./y24-8-relaxed.md)，终于闲了一点点。
@@ -22,4 +24,6 @@ bookSearchExclude: true
 
 [3月](./y24-3-saddddd.md)，悲伤，烦躁，迷茫。
 
+## 其他
 
+[腿部复健日记](./leg-rehabitation.md)，2021年4月运动受伤之后……
