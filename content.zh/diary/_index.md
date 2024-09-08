@@ -12,6 +12,8 @@ bookSearchExclude: true
 
 ## 2024 年
 
+[9月](./y24-9-anxious.md)，准备入学事项。
+
 [8月](./y24-8-relaxed.md)，终于闲了一点点。
 
 [7月](./y24-7-stillbusy.md)，为啥还是这么忙啊啊啊啊啊啊。
