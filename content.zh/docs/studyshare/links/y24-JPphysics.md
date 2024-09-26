@@ -5,7 +5,8 @@ lastmod: 2024-03-11
 ---
 
 物理学专业日本留学信息获取。（其他专业可参考）
-点击[<img src="https://cdn.hugeicons.com/icons/mouse-left-click-02-stroke-rounded.svg" alt="mouse-left-click-02" width="20" height="20" />]()跳转页面。
+点击[<img src="https://cdn.hugeicons.com/icons/mouse-left-click-02-stroke-rounded.svg" alt="mouse-left-click-02" width="20" height="20" />]()可跳转页面。
+也有关于入学后的一些小贴士噢。
 
 <!--more-->
 
@@ -13,6 +14,9 @@ lastmod: 2024-03-11
 
 ## 初始阶段
 > 想法?
+
+萌生想法非常重要，可以是任何动机，比如喜欢日本流行文化等。笔者就是受身边的人影响下接触到了动漫，然后开始学日语，对日本流行摇滚也渐渐感兴趣了，最后综合考虑下选择了日本作为留学目的地。（大一的时候不知道为什么就不想考研）
+
 - [日本留学官方网站](https://www.studyinjapan.go.jp/sc/)
 
 
@@ -24,9 +28,9 @@ lastmod: 2024-03-11
 ## 攻克目标
 > 报名？（以物理学及相关专业为例）套磁？
 
+笔者当时大四快结束的时候较为幸运的被综合研究大学院大学高能加速器研究机构KEK录取啦，目前已经入学就读。
 
 - [综研大募集要项](https://www.soken.ac.jp/admission/application_info/)
-
 - [JLPT 日本语能力测试](https://jlpt-main.neea.cn/)
 
 <br>
@@ -35,7 +39,7 @@ lastmod: 2024-03-11
 
 <br>
 
-# 针对物理学专业信息共享
+# 针对物理学专业考生信息共享
 
 > 本人三流大学光信专业（偏物理）小渣渣。大一就有想法到日本读书的，大学期间也pass了N3~N1，还有一段为期一年的留日交换经历。下面是一些个人搜索记录。目前在申请KEK phd项目，有着落了再更新。
 
@@ -87,8 +91,6 @@ lastmod: 2024-03-11
 
 ## 修考（院试）解答参考
 
-注：英语项目勿扰。花了挺多时间搜集的，但就是没来得及做(doge)
-
 - [院試を解答解説していくよ](https://note.com/inshi_phys_/) 需要JP的信用卡，自己买了部分，需要可聊，有偿
 - [大学院入試（院試） 過去問題の解答 分野別 物理](https://miyake.github.io/%E9%99%A2%E83%A9%A6_%E9%81%8E%E5%8E%BB%E5%95%8F_%E8%A7%A3%E7%AD%94/%E5%88%86%E9%87%8E%E5%88%A5_%E7%89%A9%E7%90%86.html) FREE~ 不太全，以单题解答
 - [F棟](https://www.youtube.com/@user-nc9vc6sv2k) 油管，唯一视频解答
@@ -106,8 +108,28 @@ lastmod: 2024-03-11
 
 <br>
 
-## 其他资源
-#### JP的物理机构
+# 入学后事宜
+
+## 奖学金
+
+分政府和财团的，也分校推和直接申请的。
+
+大总览：[Scholarship for International Students in Japan](https://www.studyinjapan.go.jp/en/_mt/2024/04/EN_2024-2025Scholarship_Pamphlet.pdf)
+
+- [東急財団](https://foundation.tokyu.co.jp/)
+- [本庄国際奨学財団](https://www.hisf.or.jp/)
+- [伊藤国際教育交流財団](https://www.itofound.or.jp/)
+- [綿貫国際奨学財団](https://wisf.sakura.ne.jp/index.html) —— [募集要项](https://wisf.sakura.ne.jp/pdf/youkou.pdf)
+- [岩谷直治記念財団](https://www.iwatani-foundation.or.jp/)　
+- [似鳥国際奨学財団](https://www.nitori-shougakuzaidan.com/)
+- [岡本国際奨学交流財団](https://www.osf-family.com/about.html)
+
+---
+
+<br>
+
+# 其他资源
+#### JP的研究机构
 找教授可以参考
 
 - [JPS 日本物理学会](https://www.jps.or.jp/)
