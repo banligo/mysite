@@ -73,3 +73,22 @@ type: "blog"
 ### 2024-09-23
 
 前几天，去商场，结束后又脚踝扭了。
+
+
+### 2024-09-30
+
+不是我不愿意记录脚踝扭伤啊，是不愿意面对。
+
+冰敷了3天后开始热敷了，感觉现在好很多了，但是时不时还是会酸痛？不是只有疼那种，感觉是里面的组织结构在恢复吧。本来运动跑步都开始了的，结果又搞了这一出。
+
+真的好在意，希望时间能抹平一切。
+
+电吉他也循序渐进吧，一个乐句真的要练好久才能练的有点像样。今天晚上再录一个乐句，然后发布到B战咯，也就是近两个月的战果，虽然没有每天练习吧，但是80小时应该是有了的。嗯，会发布到B战噢。
+
+牙齿这个暑假也补了7颗，还订做了保持器，大概要花4000左右吧……救……这个暑假是要花多少Money.五万说不定都有。7万的存款已经变为5万5咯。哭唧唧，怎么办呀。
+
+最近在看一本书《How to Get Your PhD A Handbook for the Journey》，里面提到了费曼的一句名言：
+
+You have no reponsibility to live up to what other people think you ought to accomplish. I have no responsibility to be like they expect me to be. It's their mistake, not my failing.
+
+读了这句话，感觉释怀了好多。

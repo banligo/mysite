@@ -12,6 +12,8 @@ bookSearchExclude: true
 
 ## 2024 年
 
+[10月](./y24-10-imposter.md)，适应新环境。
+
 [9月](./y24-9-anxious.md)，准备入学事项。
 
 [8月](./y24-8-relaxed.md)，终于闲了一点点。
